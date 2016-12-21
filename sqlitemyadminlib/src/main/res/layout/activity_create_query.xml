@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_create_query"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ohoussein.sqlitemyadminlib.activity.CreateQueryActivity">
+
+    <EditText
+        android:id="@+id/input_query"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="top"
+        android:hint="@string/query.hint"
+        android:padding="20dp" />
+</RelativeLayout>

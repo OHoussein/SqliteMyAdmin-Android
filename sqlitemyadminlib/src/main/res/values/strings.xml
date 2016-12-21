@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">sqlitemyadminlib</string>
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_error_title">Sorry</string>
+    <string name="col_value">%1$s: %2$s</string>
+    <string name="close">Close</string>
+    <string name="query.hint">Your query here</string>
+    <string name="create_query">Create query</string>
+    <string name="activity_create_query_title">@string/create_query</string>
+    <string name="execute">Execute</string>
+</resources>

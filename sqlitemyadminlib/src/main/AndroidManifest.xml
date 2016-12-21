@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ohoussein.sqlitemyadminlib">
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true">
+        <activity android:name=".activity.SqliteMyAdminActivity" />
+        <activity android:name=".activity.TableListActivity" />
+        <activity android:name=".activity.QueryResultActivity" />
+        <activity
+            android:name=".activity.CreateQueryActivity"
+            android:label="@string/activity_create_query_title" />
+        <activity android:name=".activity.RowDetailActivity"></activity>
+    </application>
+
+</manifest>
