@@ -6,9 +6,24 @@
 * Execute custom query
 
 #### Usage
+```
+Add it in your root build.gradle at the end of repositories:
+allprojects {
+    repositories {
+        ...
+        maven { url "https://jitpack.io" }
+    }
+}
+```
+Add the dependency
+```
+dependencies {
+    ...
+    compile 'com.github.ohoussein.sqlitemyadmin:sqlitemyadmin:1.0.0'
+    }
+```
 * add a debug button in your app
-* the just call SqliteMyAdminActivity#navigate in on onClickListener.
-* No root is required
+* then just call ```SqliteMyAdminActivity#navigate``` on onClickListener.
 
 #### Showcases
 <p  align="center">

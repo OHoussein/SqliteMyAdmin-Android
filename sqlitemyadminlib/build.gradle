@@ -46,6 +46,6 @@ publish {
     groupId = 'com.github.ohoussein.sqlitemyadmin'
     artifactId = 'sqlitemyadmin'
     publishVersion = '1.0.0'
-    website = 'https://github.com/OHoussein'
+    website = 'https://github.com/OHoussein/SqliteMyAdmin-Android'
     desc = "A debug tool that inspects the database of the running app"
 }
