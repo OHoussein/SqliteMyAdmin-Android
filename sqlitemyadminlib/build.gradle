@@ -9,8 +9,8 @@ android {
     defaultConfig {
         minSdkVersion 14
         targetSdkVersion 25
-        versionCode 1
-        versionName "1.0"
+        versionCode 2
+        versionName "1.0.1"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
@@ -45,7 +45,7 @@ publish {
     userOrg = 'ohoussein'
     groupId = 'com.github.ohoussein.sqlitemyadmin'
     artifactId = 'sqlitemyadmin'
-    publishVersion = '1.0.0'
+    publishVersion = '1.0.1'
     website = 'https://github.com/OHoussein/SqliteMyAdmin-Android'
     desc = "A debug tool that inspects the database of the running app"
 }
