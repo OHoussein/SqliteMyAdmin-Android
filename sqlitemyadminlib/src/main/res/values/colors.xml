@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="_sqlitemyadmin_colorPrimary">#0090ff</color>
+    <color name="_sqlitemyadmin_colorPrimaryDark">#006cbf</color>
+    <color name="_sqlitemyadmin_colorAccent">#40fff9</color>
+</resources>
